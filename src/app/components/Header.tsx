@@ -5,7 +5,7 @@ const Header = () => {
     <header className="bg-gray-800 text-white">
       <div className="container mx-auto flex justify-between items-center p-5">
         {/* Logo ou Nome */}
-        <h1 className="text-3xl font-bold">Meu Portfólio</h1>
+        <h1 className="text-3xl font-bold">programador</h1>
 
         {/* Botão de alternância para menu responsivo */}
         <button
