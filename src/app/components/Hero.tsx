@@ -3,9 +3,9 @@ const Hero = () => {
     <section id="hero" className="bg-gray-900 text-white h-screen flex items-center justify-center">
       <div className="text-center px-5">
         <img
-          src="/foto.jpeg" // A imagem deve estar na pasta public
+          src="/foto.jpeg" 
           alt="Minha foto"
-          className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
+          className="w-65 h-65 rounded-full mx-auto mb-4 object-cover"
           
         />
         <h1 className="text-5xl font-bold mb-4">Olá, eu sou Gabriel Oliveira </h1>

@@ -1,3 +1,5 @@
+import { FcReadingEbook } from "react-icons/fc";
+
 const Skills = () => {
   return (
     <section id="skills" className="bg-gray-100 text-gray-800 py-10">
@@ -8,7 +10,8 @@ const Skills = () => {
         <div className="mb-10">
           <h3 className="text-2xl font-bold mb-4">Soft Skills</h3>
           <ul className="list-disc pl-5 space-y-2">
-            <li>Comunicação efetiva</li>
+            <FcReadingEbook className="text-4xl mb-1"/><li>omunicação efetiva</li>
+           
             <li>Trabalho em equipe</li>
             <li>Resolução de problemas</li>
             <li>Adaptabilidade</li>
